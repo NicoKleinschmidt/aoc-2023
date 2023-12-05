@@ -35,6 +35,14 @@
             "mode": "auto",
             "program": "cmd/day4",
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Day 5",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "cmd/day5",
+            "console": "integratedTerminal"
         }
     ]
 }
